@@ -1,0 +1,14 @@
+#      _       ____   __  __ 
+#     / \     / ___| |  \/  |
+#    / _ \   | |     | |\/| |
+#   / ___ \  | |___  | |  | |
+#  /_/   \_\  \____| |_|  |_|
+# The creator of this plugin was fernanACM.
+# https://github.com/fernanACM
+name: AntiFires
+main: fernanACM\AntiFires\AntiFires
+version: 1.0.0
+api: 5.3.0
+author: fernanACM
+description: Fire protection system for faction servers. Made by fernanACM
+webiste: https://github.com/fernanACM
